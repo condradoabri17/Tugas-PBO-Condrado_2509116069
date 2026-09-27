@@ -3,7 +3,7 @@
 
 ## Identitas Mahasiswa
 
-- **Nama:** Condro Abril
+- **Nama:** Condrado Alain Sharon
 - **NIM:** 2509116069
 - **Kelas:** B - Sistem Informasi
 - **Mata Kuliah:** Pemrograman Berorientasi Objek
