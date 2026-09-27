@@ -5,7 +5,7 @@
 
 - **Nama:** Condro Abril
 - **NIM:** 2509116069
-- **Kelas:** [Isi Kelas]
+- **Kelas:** B - Sistem Informasi
 - **Mata Kuliah:** Pemrograman Berorientasi Objek
 
 ## Deskripsi Studi Kasus
